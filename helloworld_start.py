@@ -3,4 +3,6 @@
 # LinkedIn Learning Python course by Joe Marini
 #
 
+print("hello word")
+
 
